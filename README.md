@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer ,Learner and Teacher!!
+## I'm a Developer and a Learner !!
 
 - 🔭 I recently just learned about Blockchain Technology
 - 🌱 I’m currently learning C++
