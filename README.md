@@ -10,9 +10,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ I love to tinker with Electronics and stuff
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Shivam Spotify Playing" width="350" />](https://open.spotify.com/user/g7cfbn5m6pcfwosucltkw2bgs)
 
 ### Connect with me:
 
