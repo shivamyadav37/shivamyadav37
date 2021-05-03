@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-Youtube  -  [here](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
+[Youtube](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
 
+[BuyMeACoffee](https://www.buymeacoffee.com/coderama)
 
 
 ## I'm a Developer and a Learner !!
