@@ -59,4 +59,7 @@
 [instagram]: https://instagram.com/thug_.nigga
 [linkedin]: https://linkedin.com/in/shivamyadav37
 
+   <p align="center">
+  <img width="250" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif">
+</p>
 
