@@ -13,8 +13,7 @@
 
 - 🔭 I recently just learned about Blockchain Technology
 - 🌱 I’m currently learning C++
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ I love to tinker with Electronics and stuff
 
 
