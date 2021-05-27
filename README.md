@@ -59,6 +59,6 @@
 [linkedin]: https://linkedin.com/in/shivamyadav37
 
    <p align="center">
-  <img width="250" src="https://media.giphy.com/media/6OrCT1jVbonHG/giphy.gif">
+  <img width="300" src="https://media.giphy.com/media/wKnqovL33x9in9ci6X/giphy.gif">
 </p>
 
