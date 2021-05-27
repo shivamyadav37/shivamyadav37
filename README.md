@@ -50,17 +50,6 @@
 
 
 
-
-
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Shivam's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=shivamyadav37&show_icons=true&hide_border=true" />
-
-</details>
-
 [twitter]: https://twitter.com/Cod3rama
 [youtube]: https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA?view_as=subscriber
 [instagram]: https://instagram.com/thug_.nigga
