@@ -7,8 +7,8 @@
 [Youtube](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
 
 [BuyMeACoffee](https://www.buymeacoffee.com/coderama)
-   ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
-<img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
+   ## Hello, folks! <img src="https://github.com/shivamyadav37/shivamyadav37/blob/main/wave.gif" align="top" width="30px">
+<img src="https://komarev.com/ghpvc/?username=shivamyadav37&label=Profile Views&color=blue&style=flat" alt="shivamyadav37" />
 
 
 <!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
@@ -20,12 +20,12 @@
 [![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 
-## 🎓 I'm a BTech IT Student at Manipal University Jaipur
+## 🎓 I'm a B.Tech Student at GLA University Mathura
 - 🔭 I’m currently practicing questions on LeetCode
 - 🌱 I’m currently learning Data mining & Flutter
-- 👯 I’m actively looking for a 6 month long internship, starting from January 2022
-- 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
+- 👯 I’m actively looking for an internship.
+- 💬 Ask me about Node.js / Python / MySQL / PHP / Python
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamyadav37/) or Discord (Mayank#9665)
 
 
 ### Things I code with: 
