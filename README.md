@@ -7,56 +7,69 @@
 [Youtube](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
 
 [BuyMeACoffee](https://www.buymeacoffee.com/coderama)
+   ## Hello, folks! <img src="https://github.com/Mayank0255/Mayank0255/blob/main/wave.gif" align="top" width="30px">
+<img src="https://komarev.com/ghpvc/?username=Mayank0255&label=Profile Views&color=blue&style=flat" alt="Mayank0255" />
 
 
-## I'm a Developer and a Learner !!
-
-- 🔭 I recently just learned about Blockchain Technology
-- 🌱 I’m currently learning C++
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ I love to tinker with Electronics and stuff
-
-
-### Connect with me:
-
-[<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="center" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="center" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="center" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="center" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="center" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
-
----
-
-### 📺 YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Chill Coding Music](https://www.youtube.com/watch?v=u1ifh2YLMGo)
-- [How to Install Plugins in IntelliJ](https://www.youtube.com/watch?v=oMkL1HpqZsA)
-- [Hacking Documentary](https://www.youtube.com/watch?v=pPZOzlmLgG8)
-- [How to add Folder to Github Repository](https://www.youtube.com/watch?v=yxE5bEqmx1s&t=121s)
-- [Shodan Hands On](https://www.youtube.com/watch?v=ldFLuhGZYGY&t=7s)
-<!-- YOUTUBE:END -->
+<!---[![GitHub Badge](https://img.shields.io/badge/-Mayank0255-0d0d0d?style=flat&labelColor=0d0d0d&logo=github&logoColor=white)](https://github.com/Mayank0255)-->
+[![Discord Badge](https://img.shields.io/badge/mayank0255-7289DA?style=flat&labelColor=7289DA&logo=discord&logoColor=white)](https://discords.com/bio/p/mayank0255)
+[![Linkedin Badge](https://img.shields.io/badge/-Mayank%20Aggarwal-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-aggarwal-14301b168/)
+[![Mail Badge](https://img.shields.io/badge/-mayank2aggarwal-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:mayank2aggarwal@gmail.com)
+[![Youtube Badge](https://img.shields.io/badge/-Mayank-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCKIoMO8RvlAh7bIUfT2Nmsg)
+[![Twitter Badge](https://img.shields.io/badge/-@Mayank0255-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](https://twitter.com/Mayank0255)
+[![Medium Badge](https://img.shields.io/badge/@mynkggrwl-12100E?style=flat&labelColor=12100E&logo=medium&logoColor=white)](https://medium.com/@mynkggrwl)
 
 
+## 🎓 I'm a BTech IT Student at Manipal University Jaipur
+- 🔭 I’m currently practicing questions on LeetCode
+- 🌱 I’m currently learning Data mining & Flutter
+- 👯 I’m actively looking for a 6 month long internship, starting from January 2022
+- 💬 Ask me about Node.js / Python / MySQL / React.js / Tableau
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/mayank-aggarwal-14301b168/) or Discord (Mayank#9665)
 
-[twitter]: https://twitter.com/Cod3rama
-[youtube]: https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA?view_as=subscriber
-[instagram]: https://instagram.com/thug_.nigga
-[linkedin]: https://linkedin.com/in/shivamyadav37
+
+### Things I code with: 
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="30px"></span>&nbsp;
+
+### Tools I use:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="30px"></span>&nbsp;
+<span><img src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/WebStorm_Icon.svg" width="30px"></span>&nbsp;
+<span><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg" width="30px"></span>&nbsp;
+
+### Things I am learning:
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="30px"></span>&nbsp;
+<span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
+
+## 🏆 My GitHub Stats
+
+
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+## :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/17) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
+2. 🗣 Commented on [#26](https://github.com/Mayank0255/Space-Invaders/issues/26) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+3. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+4. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+5. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
+<!--END_SECTION:activity-->
+
+
+
 
    <p align="center">
   <img width="300" src="https://media.giphy.com/media/wKnqovL33x9in9ci6X/giphy.gif">
