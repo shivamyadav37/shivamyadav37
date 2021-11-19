@@ -24,7 +24,7 @@
 - 🔭 I’m currently practicing questions on LeetCode
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m actively looking for an internship.
-- 💬 Ask me about Node.js / Python / MySQL / PHP / Python
+- 💬 Ask me about Python / MySQL / PHP 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamyadav37/) or Discord (Mayank#9665)
 
 
