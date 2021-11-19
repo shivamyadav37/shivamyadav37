@@ -54,19 +54,11 @@
 ## 🏆 My GitHub Stats
 
 
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Mayank0255/Mayank0255/main/profile-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shivamyadav37/shivamyadav37/main/profile-summary-card-output/vue/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shivamyadav37/shivamyadav37/main/profile-summary-card-output/vue/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/shivamyadav37-summary-card-output/vue/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/shivamyadav37-summary-card-output/vue/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
-## :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/Mayank0255/Stackoverflow-Clone-Backend/issues/17) in [Mayank0255/Stackoverflow-Clone-Backend](https://github.com/Mayank0255/Stackoverflow-Clone-Backend)
-2. 🗣 Commented on [#26](https://github.com/Mayank0255/Space-Invaders/issues/26) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
-3. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
-4. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
-5. 🗣 Commented on [#25](https://github.com/Mayank0255/Space-Invaders/issues/25) in [Mayank0255/Space-Invaders](https://github.com/Mayank0255/Space-Invaders)
-<!--END_SECTION:activity-->
 
 
 
