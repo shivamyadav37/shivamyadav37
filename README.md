@@ -7,7 +7,7 @@
 [Youtube](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
 
 [BuyMeACoffee](https://www.buymeacoffee.com/coderama)
-   ## Hello, folks! <img src="https://github.com/shivamyadav37/shivamyadav37/blob/main/wave.gif" align="top" width="30px">
+   ## Hello, folks! 
 <img src="https://komarev.com/ghpvc/?username=shivamyadav37&label=Profile Views&color=blue&style=flat" alt="shivamyadav37" />
 
 
