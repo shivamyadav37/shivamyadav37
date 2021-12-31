@@ -16,7 +16,7 @@
 - 🌱 I’m currently learning Data mining & Flutter
 - 👯 I’m actively looking for an internship.
 - 💬 Ask me about Python / MySQL / PHP 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamyadav37/) or Discord (Mayank#9665)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamyadav37/)
 
 
 ### Things I code with: 
