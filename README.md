@@ -43,6 +43,6 @@
 <span><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-plain.svg" width="30px"></span>&nbsp;
 
    <p align="center">
-  <img width="300" src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif">
+  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
