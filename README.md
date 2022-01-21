@@ -12,10 +12,10 @@
 
 
 ## 🎓 I'm a B.Tech Student at GLA University Mathura
-- 🔭 I’m currently practicing questions on LeetCode
-- 🌱 I’m currently learning Data mining & Flutter
-- 👯 I’m actively looking for an internship.
-- 💬 Ask me about Python / MySQL / PHP 
+- 🔭 I’m currently improving my Web Development Skills
+- 🌱 I’m currently learning Blockchain
+- 👯 I’m actively looking for an internship/Job.
+- 💬 Ask me about Python / MySQL / PHP / Front-End / IOT
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shivamyadav37/)
 
 
