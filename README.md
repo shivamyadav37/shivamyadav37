@@ -15,7 +15,7 @@
 
 <img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
 
-_Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer and Script Wiz. I spend my free time working on side projects and discussing about technology on internet forums. I'm currently learning ***Computer Vision*** and ***Open Source Development***. You can contact me on my social media._
+_Hi, this is ***Shivam Yadav***.
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
@@ -44,7 +44,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 <div align="center">
 <h1><i>Stats</i></h1>
 
-<!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
+  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> 
  
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamyadav37&count_private=true&show_icons=true&theme=gotham)](https://github.com/shivamyadav37/github-readme-stats)
  
