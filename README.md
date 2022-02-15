@@ -38,7 +38,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 
 <h3 align="center">
  
-![](https://komarev.com/ghpvc/?username=sudoshivam&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
+![](https://komarev.com/ghpvc/?username=shivamyadav37&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
 
  </h3>
  </br>
@@ -47,15 +47,15 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 
 <!--  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> -->
  
-[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=sudoshivam&count_private=true&show_icons=true&theme=gotham)](https://github.com/sudoshivam/github-readme-stats)
+[![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamyadav37&count_private=true&show_icons=true&theme=gotham)](https://github.com/shivamyadav37/github-readme-stats)
  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sudoshivam&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shivamyadav37&theme=gotham)](https://git.io/streak-stats)
 </br>
 </br>
 <h2><i>Activity Graph</i></h2>
 </br>
 
-[![Shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=sudoshivam&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shivam's github activity graph](https://activity-graph.herokuapp.com/graph?username=shivamyadav37&theme=gotham)](https://github.com/shivamyadav37/github-readme-activity-graph)
 
 <h2><i>Language and Tools</i></h2>
 </br>
@@ -74,7 +74,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoshivam&langs_count=6&layout=compact&theme=gotham)](https://github.com/sudoshivam/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav37&langs_count=6&layout=compact&theme=gotham)](https://github.com/shivamyadav37/github-readme-stats) 
 <h6> Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. </h6>
 
 </div>
