@@ -43,8 +43,6 @@ _Hi, this is ***Shivam Yadav***.
  </br>
 <div align="center">
 <h1><i>Stats</i></h1>
-
-  <img src="https://c.tenor.com/grhuEkbcNh8AAAAi/emoji-fast-typing.gif"> 
  
 [![Shivam's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivamyadav37&count_private=true&show_icons=true&theme=gotham)](https://github.com/shivamyadav37/github-readme-stats)
  
