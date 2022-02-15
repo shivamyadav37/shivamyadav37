@@ -13,9 +13,7 @@
  
 </h2>
 
-<img align="right" src="https://64.media.tumblr.com/4c1305b98830868fc843e080f8de986c/b762112e0ae6dd9b-f3/s640x960/778ce4b9eb986da34fff5cb393a25463a1db413b.gif" widht="300">
-
-_Hi, this is ***Shivam Yadav***.
+Hi, this is ***Shivam Yadav***.
 
 <h3 align='center'><i>Social Media Handles</i></h3>
 <p align='center'>
