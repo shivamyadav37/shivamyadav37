@@ -37,8 +37,7 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 </p>
 
 <h3 align="center">
- 
-![](https://komarev.com/ghpvc/?username=shivamyadav37&color=268F77&label=Profile+Views) [![wakatime](https://wakatime.com/badge/user/976e3897-1e63-463d-9d7f-a2c84c3383ba.svg)](https://wakatime.com/@976e3897-1e63-463d-9d7f-a2c84c3383ba)
+
 
  </h3>
  </br>
