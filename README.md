@@ -77,6 +77,6 @@ Hi, this is ***Shivam Yadav***.
 
 
    <p align="center">
-  <img width="600" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
