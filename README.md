@@ -23,13 +23,13 @@ _Hi, this is ***Shivam Yadav***. An AI research student, Freelance Web Developer
 <table width="100" align='center'>
 <tr>
     <td align='center' width="60">
-        <a href="https://twitter.com/sudoshivam"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png"/></a>
+        <a href="https://twitter.com/Cod3rama"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/100/000000/external-twitter-an-american-online-news-and-social-networking-service-logo-color-tal-revivo.png"/></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.instagram.com/sudoshivam/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/></a>
+        <a href="https://www.instagram.com/shivamthe1/"><img src="https://img.icons8.com/fluency/96/000000/instagram-new.png"/></a>
     </td>
     <td align='center' width="60">
-        <a href="https://www.linkedin.com/in/sudoshivam"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
+        <a href="https://www.linkedin.com/in/shivamyadav37"><img src="https://img.icons8.com/color/96/000000/linkedin-2.png"/></a>
     </td>
 </tr>
 </table>
