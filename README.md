@@ -5,6 +5,10 @@
 </div>
 
 <div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
+</div>
+
+<div align="center">
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUdNjG2Bu72WriXzWObRiqA)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/coderama)
@@ -16,6 +20,8 @@
 ---
 
 ### 🧑‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const shivam = {
@@ -52,6 +58,10 @@ const shivam = {
 ---
 
 ### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50">
+</div>
 
 <div align="center">
 
@@ -93,6 +103,10 @@ const shivam = {
 ### 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
+</div>
+
+<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivamyadav37&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamyadav37&layout=compact&langs_count=8&theme=radical"/>
@@ -110,6 +124,10 @@ const shivam = {
 ### 📈 Contribution Graph
 
 <div align="center">
+  <img src="https://media.giphy.com/media/3oKIPjzfv0sI2p7fDW/giphy.gif" width="50">
+</div>
+
+<div align="center">
 
 [![Shivam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shivamyadav37&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/shivamyadav37/github-readme-activity-graph)
 
@@ -118,6 +136,10 @@ const shivam = {
 ---
 
 ### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" width="50">
+</div>
 
 <div align="center">
 
@@ -130,6 +152,10 @@ const shivam = {
 ### 💡 Random Dev Quote
 
 <div align="center">
+  <img src="https://media.giphy.com/media/AeWoyE3ZT90YM/giphy.gif" width="50">
+</div>
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -138,6 +164,10 @@ const shivam = {
 ---
 
 ### 📊 Weekly Development Breakdown
+
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
+</div>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -149,6 +179,8 @@ const shivam = {
 ### 💖 Show some love by starring ⭐ some repositories!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100">
 
 ---
 
