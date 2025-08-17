@@ -11,7 +11,7 @@
 
 </div>
 
-## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9D%A4%EF%B8%8F;Always+Learning+New+Things+%F0%9F%A7%A0;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)</div>
+## <div align="center">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=0CE82B&center=true&vCenter=true&multiline=true&width=600&height=100&lines=DevOps+%2F+SRE+Engineer+%F0%9F%9A%80;Cloud+Infrastructure+Specialist+%E2%98%81%EF%B8%8F;Automation+Enthusiast+%F0%9F%A4%96;Welcome+to+my+GitHub+Profile!)](https://git.io/typing-svg)</div>
 
 ---
 
@@ -20,23 +20,19 @@
 ```javascript
 const shivam = {
     pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Java", "CSS", "HTML"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Python", "Bash", "Go", "JavaScript", "YAML"],
+    askMeAbout: ["devops", "sre", "cloud architecture", "automation", "monitoring"],
     technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Vanilla JS"],
-            css: ["Bootstrap", "Tailwind", "Sass"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Docker", "AWS", "Git", "Linux"]
+        cloudPlatforms: ["AWS", "Azure", "GCP"],
+        containerization: ["Docker", "Kubernetes", "Podman"],
+        cicd: ["Jenkins", "GitLab CI", "GitHub Actions", "ArgoCD"],
+        infrastructure: ["Terraform", "Ansible", "CloudFormation"],
+        monitoring: ["Prometheus", "Grafana", "ELK Stack", "Datadog"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "InfluxDB"],
+        scripting: ["Python", "Bash", "PowerShell"]
     },
-    currentFocus: "Building awesome web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    currentFocus: "Building resilient and scalable infrastructure",
+    funFact: "I automate everything and believe 'if it's not monitored, it doesn't exist!' 📊"
 };
 ```
 
@@ -60,17 +56,29 @@ const shivam = {
 <div align="center">
 
 #### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+#### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+#### Containerization & Orchestration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+
+#### CI/CD & Monitoring
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 #### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,33 +122,6 @@ const shivam = {
 <div align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shivamyadav37&theme=radical&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 🎯 Current Goals
-
-- 🌱 I'm currently learning **Advanced React Patterns** and **System Design**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 🤔 I'm looking for help with **DevOps** and **Cloud Architecture**
-- 💬 Ask me about **Web Development**, **JavaScript**, or **Python**
-- 📫 How to reach me: **[Email](mailto:your.email@example.com)**
-- ⚡ Fun fact: **I love photography and can spend hours debugging code!**
-
----
-
-### 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/shivamyadav37/shivamyadav37/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
