@@ -4,9 +4,7 @@
   <img width="300" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500">
-</div>
+
 
 <div align="center">
   
@@ -20,8 +18,6 @@
 ---
 
 ### 🧑‍💻 About Me
-
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ```javascript
 const shivam = {
@@ -160,17 +156,6 @@ const shivam = {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
-
----
-
-### 📊 Weekly Development Breakdown
-
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50">
-</div>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
 ---
 
